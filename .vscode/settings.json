@@ -1,0 +1,10 @@
+// {
+//     "java.configuration.updateBuildConfiguration": "interactive",
+//     "dart.flutterSdkPath": "~/development/flutter"
+// }
+
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "dart.flutterSdkPath": "/Users/tuquancheng/development/flutter",
+    "cmake.sourceDirectory": "C:/Users/terry/Downloads/SpendiX-App/linux"
+}
